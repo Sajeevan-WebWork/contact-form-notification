@@ -1,0 +1,49 @@
+{
+  "hash": "f1f84128",
+  "configHash": "a06b24dc",
+  "lockfileHash": "0266e087",
+  "browserHash": "76477819",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "98797dd6",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "5186e17c",
+      "needsInterop": true
+    },
+    "@material-tailwind/react": {
+      "src": "../../node_modules/@material-tailwind/react/index.js",
+      "file": "@material-tailwind_react.js",
+      "fileHash": "7f33a393",
+      "needsInterop": true
+    },
+    "react-hot-toast": {
+      "src": "../../node_modules/react-hot-toast/dist/index.mjs",
+      "file": "react-hot-toast.js",
+      "fileHash": "63affc6f",
+      "needsInterop": false
+    },
+    "socket.io-client": {
+      "src": "../../node_modules/socket.io-client/build/esm/index.js",
+      "file": "socket__io-client.js",
+      "fileHash": "e261c5f2",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-4YBAB45U": {
+      "file": "chunk-4YBAB45U.js"
+    },
+    "chunk-GWAROZSO": {
+      "file": "chunk-GWAROZSO.js"
+    },
+    "chunk-V4OQ3NZ2": {
+      "file": "chunk-V4OQ3NZ2.js"
+    }
+  }
+}
